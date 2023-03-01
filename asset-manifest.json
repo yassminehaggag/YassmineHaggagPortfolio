@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/YassmineHaggagPortfolio/static/css/main.fc2b2363.css",
-    "main.js": "/YassmineHaggagPortfolio/static/js/main.165375a0.js",
+    "main.css": "/YassmineHaggagPortfolio/static/css/main.52868bcd.css",
+    "main.js": "/YassmineHaggagPortfolio/static/js/main.c9543fc1.js",
     "static/media/library.png": "/YassmineHaggagPortfolio/static/media/library.b74b20bd03e353b34d8f.png",
     "static/media/superhero.png": "/YassmineHaggagPortfolio/static/media/superhero.19628298e29e8c593937.png",
     "static/media/david.png": "/YassmineHaggagPortfolio/static/media/david.f10df55a25f6b7a11535.png",
@@ -47,11 +47,11 @@
     "static/media/regression.png": "/YassmineHaggagPortfolio/static/media/regression.dd9e6bf835219eb7d6e4.png",
     "static/media/background.png": "/YassmineHaggagPortfolio/static/media/background.feaa8c09962fcd0a6256.png",
     "index.html": "/YassmineHaggagPortfolio/index.html",
-    "main.fc2b2363.css.map": "/YassmineHaggagPortfolio/static/css/main.fc2b2363.css.map",
-    "main.165375a0.js.map": "/YassmineHaggagPortfolio/static/js/main.165375a0.js.map"
+    "main.52868bcd.css.map": "/YassmineHaggagPortfolio/static/css/main.52868bcd.css.map",
+    "main.c9543fc1.js.map": "/YassmineHaggagPortfolio/static/js/main.c9543fc1.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc2b2363.css",
-    "static/js/main.165375a0.js"
+    "static/css/main.52868bcd.css",
+    "static/js/main.c9543fc1.js"
   ]
 }
